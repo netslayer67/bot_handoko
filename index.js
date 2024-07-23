@@ -83,7 +83,7 @@ async function connectionLogic() {
                     setTimeout(() => {
                         // Kirim pesan kedua
                         const responseMessage2 = {
-                            text: "Silakan pilih angka di bawah ini:\n*1️⃣. Legalitas Perusahaan dan Alamat Kantor*\n*2️⃣. Sistem Pengerjaan di Kantor*\n*3️⃣. Sistem pengerjaan di luar kota*\n*4️⃣. Jika sudah galbay apakah masih bisa?*\n*5️⃣. Berapa Ongkos Jasanya?*\n*6️⃣. Isi Formulir Pendaftaran*\nAdmin akan segera merespon setelah pengisian Formulir Pendaftaran"
+                            text: "Silahkan ketik angka di bawah ini :\n📲Ketik 1 untuk info Legalitas\n📲Ketik 2 untuk info cara kerja\n📲Ketik 3 untuk info cara kerja antar kota\n📲Ketik 4 untuk info yang sudah galbay\n📲Ketik 5 untuk info ongkos jasa\n📲Ketik 6 untuk isi Form Pendaftaran\nAdmin akan segera merespon setelah pengisian Form Pendaftaran"
                         };
                         sock.sendMessage(message.key.remoteJid, responseMessage2);
                     }, 500);
@@ -124,7 +124,7 @@ async function connectionLogic() {
                         setTimeout(() => {
                             // Kirim pesan kedua
                             const responseMessage2 = {
-                                text: "Silakan pilih angka di bawah ini:\n*1️⃣. Legalitas Perusahaan dan Alamat Kantor*\n*2️⃣. Sistem Pengerjaan di Kantor*\n*3️⃣. Sistem pengerjaan di luar kota*\n*4️⃣. Jika sudah galbay apakah masih bisa?*\n*5️⃣. Berapa Ongkos Jasanya?*\n*6️⃣. Isi Formulir Pendaftaran*\nAdmin akan segera merespon setelah pengisian Formulir Pendaftaran"
+                                text: "Silahkan ketik angka di bawah ini :\n📲Ketik 1 untuk info Legalitas\n📲Ketik 2 untuk info cara kerja\n📲Ketik 3 untuk info cara kerja antar kota\n📲Ketik 4 untuk info yang sudah galbay\n📲Ketik 5 untuk info ongkos jasa\n📲Ketik 6 untuk isi Form Pendaftaran\nAdmin akan segera merespon setelah pengisian Form Pendaftaran"
                             };
                             sock.sendMessage(message.key.remoteJid, responseMessage2);
                         }, 1000);
@@ -139,7 +139,7 @@ async function connectionLogic() {
                         setTimeout(() => {
                             // Kirim pesan kedua
                             const responseMessage2 = {
-                                text: "Silakan pilih angka di bawah ini:\n*1️⃣. Legalitas Perusahaan dan Alamat Kantor*\n*2️⃣. Sistem Pengerjaan di Kantor*\n*3️⃣. Sistem pengerjaan di luar kota*\n*4️⃣. Jika sudah galbay apakah masih bisa?*\n*5️⃣. Berapa Ongkos Jasanya?*\n*6️⃣. Isi Formulir Pendaftaran*\nAdmin akan segera merespon setelah pengisian Formulir Pendaftaran"
+                                text: "Silahkan ketik angka di bawah ini :\n📲Ketik 1 untuk info Legalitas\n📲Ketik 2 untuk info cara kerja\n📲Ketik 3 untuk info cara kerja antar kota\n📲Ketik 4 untuk info yang sudah galbay\n📲Ketik 5 untuk info ongkos jasa\n📲Ketik 6 untuk isi Form Pendaftaran\nAdmin akan segera merespon setelah pengisian Form Pendaftaran"
                             };
                             sock.sendMessage(message.key.remoteJid, responseMessage2);
                         }, 1000);
@@ -154,7 +154,7 @@ async function connectionLogic() {
                         setTimeout(() => {
                             // Kirim pesan kedua
                             const responseMessage2 = {
-                                text: "Silakan pilih angka di bawah ini:\n*1️⃣. Legalitas Perusahaan dan Alamat Kantor*\n*2️⃣. Sistem Pengerjaan di Kantor*\n*3️⃣. Sistem pengerjaan di luar kota*\n*4️⃣. Jika sudah galbay apakah masih bisa?*\n*5️⃣. Berapa Ongkos Jasanya?*\n*6️⃣. Isi Formulir Pendaftaran*\nAdmin akan segera merespon setelah pengisian Formulir Pendaftaran"
+                                text: "Silahkan ketik angka di bawah ini :\n📲Ketik 1 untuk info Legalitas\n📲Ketik 2 untuk info cara kerja\n📲Ketik 3 untuk info cara kerja antar kota\n📲Ketik 4 untuk info yang sudah galbay\n📲Ketik 5 untuk info ongkos jasa\n📲Ketik 6 untuk isi Form Pendaftaran\nAdmin akan segera merespon setelah pengisian Form Pendaftaran"
                             };
                             sock.sendMessage(message.key.remoteJid, responseMessage2);
                         }, 1000);
@@ -168,7 +168,7 @@ async function connectionLogic() {
                         setTimeout(() => {
                             // Kirim pesan kedua
                             const responseMessage2 = {
-                                text: "Silakan pilih angka di bawah ini:\n*1️⃣. Legalitas Perusahaan dan Alamat Kantor*\n*2️⃣. Sistem Pengerjaan di Kantor*\n*3️⃣. Sistem pengerjaan di luar kota*\n*4️⃣. Jika sudah galbay apakah masih bisa?*\n*5️⃣. Berapa Ongkos Jasanya?*\n*6️⃣. Isi Formulir Pendaftaran*\nAdmin akan segera merespon setelah pengisian Formulir Pendaftaran"
+                                text: "Silahkan ketik angka di bawah ini :\n📲Ketik 1 untuk info Legalitas\n📲Ketik 2 untuk info cara kerja\n📲Ketik 3 untuk info cara kerja antar kota\n📲Ketik 4 untuk info yang sudah galbay\n📲Ketik 5 untuk info ongkos jasa\n📲Ketik 6 untuk isi Form Pendaftaran\nAdmin akan segera merespon setelah pengisian Form Pendaftaran"
                             };
                             sock.sendMessage(message.key.remoteJid, responseMessage2);
                         }, 1000);
@@ -243,7 +243,7 @@ async function connectionLogic() {
                     setTimeout(() => {
                         // Kirim pesan kedua
                         const responseMessage2 = {
-                            text: "Silakan pilih angka di bawah ini:\n*1️⃣. Legalitas Perusahaan dan Alamat Kantor*\n*2️⃣. Sistem Pengerjaan di Kantor*\n*3️⃣. Sistem pengerjaan di luar kota*\n*4️⃣. Jika sudah galbay apakah masih bisa?*\n*5️⃣. Berapa Ongkos Jasanya?*\n*6️⃣. Isi Formulir Pendaftaran*\nAdmin akan segera merespon setelah pengisian Formulir Pendaftaran"
+                            text: "Silahkan ketik angka di bawah ini :\n📲Ketik 1 untuk info Legalitas\n📲Ketik 2 untuk info cara kerja\n📲Ketik 3 untuk info cara kerja antar kota\n📲Ketik 4 untuk info yang sudah galbay\n📲Ketik 5 untuk info ongkos jasa\n📲Ketik 6 untuk isi Form Pendaftaran\nAdmin akan segera merespon setelah pengisian Form Pendaftaran"
                         };
                         sock.sendMessage(message.key.remoteJid, responseMessage2);
                     }, 1000);
